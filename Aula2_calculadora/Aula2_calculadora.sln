@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula2_calculadora", "Aula2_calculadora\Aula2_calculadora.vcxproj", "{E797ECE6-A73E-4165-978A-19C7E91AC730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E797ECE6-A73E-4165-978A-19C7E91AC730}.Debug|x64.ActiveCfg = Debug|x64
+		{E797ECE6-A73E-4165-978A-19C7E91AC730}.Debug|x64.Build.0 = Debug|x64
+		{E797ECE6-A73E-4165-978A-19C7E91AC730}.Debug|x86.ActiveCfg = Debug|Win32
+		{E797ECE6-A73E-4165-978A-19C7E91AC730}.Debug|x86.Build.0 = Debug|Win32
+		{E797ECE6-A73E-4165-978A-19C7E91AC730}.Release|x64.ActiveCfg = Release|x64
+		{E797ECE6-A73E-4165-978A-19C7E91AC730}.Release|x64.Build.0 = Release|x64
+		{E797ECE6-A73E-4165-978A-19C7E91AC730}.Release|x86.ActiveCfg = Release|Win32
+		{E797ECE6-A73E-4165-978A-19C7E91AC730}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE8701F3-B454-4C55-915A-C06C0D5CED6E}
+	EndGlobalSection
+EndGlobal
